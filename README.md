@@ -16,9 +16,8 @@ I'm an undergraduate student at the School of Intelligent Engineering, Sun Yat-s
 ![](assets/Bottom_down.svg)
 
  
-
-| <a href=" ">< img align="center" src="https://github-readme-stats.vercel.app/api?username=Dwl2021&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a > | <a href="https://github.com/anuraghazra/github-readme-stats">< img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwl2021&layout=compact&theme=buefy&hide_border=true" /></a > |
-| ------------- | ------------- |
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dwl2021&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwl2021&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 #### Top Repositories
 
