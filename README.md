@@ -19,6 +19,3 @@ I'm an undergraduate student at the School of Intelligent Engineering, Sun Yat-s
 | <a href="https://github.com/Dwl2021/Dwl2021"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dwl2021&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Dwl2021/Dwl2021"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwl2021&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-#### Top Repositories
-
-<a href="https://github.com/Dwl2021/Plant-Pathology-2021">   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dwl2021&repo=Plant-Pathology-2021&theme=buefy" /> </a> <a href="https://github.com/Dwl2021/clash-for-terminal">   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dwl2021&repo=clash-for-terminal&theme=buefy" /> </a> <br /> <br />
