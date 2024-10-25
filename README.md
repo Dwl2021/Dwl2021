@@ -11,7 +11,7 @@ I'm an undergraduate student at the School of Intelligent Engineering, Sun Yat-s
 - 🎓 Studying in Intelligent Systems Engineering at Sun Yat-sen University
 - 💡 Fascinated by all aspects of robotic systems, especially in areas like motion planning
 - 🌱 Currently learning and working on projects related to Aerial Manipulators
-- 💬 Ask me about anything related to my interests or projects [here](https://github.com/Dwl2021/Dwl22021/issues)
+- 💬 Ask me about anything related to my interests or projects [here](Dengwl.2021@gmail.com)
 - 📫 How to reach me: Dengwl.2021@gmail.com
 
 | <a href="https://github.com/Dwl2021/Dwl2021"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dwl2021&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Dwl2021/Dwl2021"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwl2021&layout=compact&theme=buefy&hide_border=true" /></a> |
