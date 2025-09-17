@@ -4,15 +4,10 @@
   </div>
 </div>
 
-I'm an undergraduate student at the School of Intelligent Engineering, Sun Yat-sen University. 🎓 My areas of keen interest include Quadrotors and Aerial Manipulators 🚁, and fields of Artificial Intelligence (Deep Learning, Machine Learning, Computer Vision) 🧠.
 
-**About me**
+I'm a Master student at **Sun Yat-sen University**, focusing on **aerial robotics** and **manipulation**. 🚁
 
-- 🎓 Studying in Intelligent Systems Engineering at Sun Yat-sen University
-- 💡 Fascinated by all aspects of robotic systems, especially in areas like motion planning
-- 🌱 Currently learning and working on projects related to Aerial Manipulators
-- 💬 Ask me about anything related to my interests or projects [here](Dengwl.2021@gmail.com)
-- 📫 How to reach me: Dengwl.2021@gmail.com
+🌐 **Personal Page**: [dwl2021.github.io](http://dwl2021.github.io)
 
 | <a href="https://github.com/Dwl2021/Dwl2021"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dwl2021&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Dwl2021/Dwl2021"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwl2021&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
