@@ -1,8 +1,3 @@
-<div align="center">
-  <div>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome%20to%20my%20GitHub！&center=true&size=27" />
-  </div>
-</div>
 
 
 I'm a Master student at **Sun Yat-sen University**, focusing on **aerial robotics** and **manipulation**. 🚁
