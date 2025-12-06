@@ -1,6 +1,6 @@
 
 
-I'm a Master student at **Sun Yat-sen University**, focusing on **aerial robotics** and **manipulation**. 🚁
+Hi there! 👋🏻 I'm a Master student at **Sun Yat-sen University**, focusing on **aerial robotics** and **manipulation**. 🚁
 
 🌐 **Personal Page**: [dwl2021.github.io](http://dwl2021.github.io)
 
